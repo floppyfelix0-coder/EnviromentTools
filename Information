@@ -10,6 +10,11 @@
       "valueType": "boolean",
       "defaultValue": false,
       "userValues": {}
+    },
+    "GameVersion": {
+      "valueType": "string",
+      "defaultValue": "1.0.0",
+      "userValues": {}
     }
   }
 }
