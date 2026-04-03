@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "flags": {
+    "Debug": {
+      "valueType": "boolean",
+      "defaultValue": true,
+      "userValues": {}
+    }
+  }
+}
