@@ -5,6 +5,11 @@
       "valueType": "boolean",
       "defaultValue": true,
       "userValues": {}
+    },
+    "Blinking": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
     }
   }
 }
