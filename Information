@@ -15,6 +15,57 @@
       "valueType": "string",
       "defaultValue": "1.0.0",
       "userValues": {}
+    },
+
+    "Gravity": {
+      "valueType": "number",
+      "defaultValue": 196.2,
+      "userValues": {}
+    },
+    "VoiceChatAudioVolume": {
+      "valueType": "number",
+      "defaultValue": 1,
+      "userValues": {}
+    },
+    "FireworksUI": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "ShowUsername": {
+      "valueType": "boolean",
+      "defaultValue": true,
+      "userValues": {}
+    },
+    "BenchName": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "GiftingEnabled": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "DoublePVPCoins": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "VoiceChatAbilities": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "Subway": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "Jumpscare": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
     }
   }
 }
