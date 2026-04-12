@@ -44,7 +44,7 @@
     },
     "GiftingEnabled": {
       "valueType": "boolean",
-      "defaultValue": false,
+      "defaultValue": true,
       "userValues": {}
     },
     "DoublePVPCoins": {
